@@ -1,0 +1,16 @@
+../Components/ft6x06/ft6x06.c:116:6:ft6x06_Init	3
+../Components/ft6x06/ft6x06.c:147:6:ft6x06_Reset	1
+../Components/ft6x06/ft6x06.c:159:10:ft6x06_ReadID	1
+../Components/ft6x06/ft6x06.c:175:6:ft6x06_TS_Start	1
+../Components/ft6x06/ft6x06.c:197:9:ft6x06_TS_DetectTouch	2
+../Components/ft6x06/ft6x06.c:229:6:ft6x06_TS_GetXY	4
+../Components/ft6x06/ft6x06.c:268:6:ft6x06_TS_EnableIT	1
+../Components/ft6x06/ft6x06.c:283:6:ft6x06_TS_DisableIT	1
+../Components/ft6x06/ft6x06.c:300:9:ft6x06_TS_ITStatus	1
+../Components/ft6x06/ft6x06.c:313:6:ft6x06_TS_ClearIT	1
+../Components/ft6x06/ft6x06.c:451:17:ft6x06_TS_Configure	1
+../Components/ft6x06/ft6x06.c:466:16:ft6x06_GetInstance	3
+../Components/ft6x06/ft6x06.c:482:6:TS_IO_Write	1
+../Components/ft6x06/ft6x06.c:495:9:TS_IO_Read	1
+../Components/ft6x06/ft6x06.c:511:6:TS_IO_WriteMultiple	1
+../Components/ft6x06/ft6x06.c:525:10:TS_IO_ReadMultiple	1

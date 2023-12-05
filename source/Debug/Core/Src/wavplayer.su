@@ -1,0 +1,11 @@
+../Core/Src/wavplayer.c:35:6:player_reset	4	static
+../Core/Src/wavplayer.c:41:6:mount_sd	8	static
+../Core/Src/wavplayer.c:49:6:player_song_select	120	static
+../Core/Src/wavplayer.c:73:6:player_play	16	static
+../Core/Src/wavplayer.c:83:6:player_process	8	static
+../Core/Src/wavplayer.c:135:6:player_stop	16	static
+../Core/Src/wavplayer.c:140:6:player_pause	16	static
+../Core/Src/wavplayer.c:145:6:player_resume	16	static
+../Core/Src/wavplayer.c:150:6:player_skip	16	static
+../Core/Src/wavplayer.c:159:6:HAL_I2S_TxHalfCpltCallback	16	static
+../Core/Src/wavplayer.c:165:6:HAL_I2S_TxCpltCallback	16	static

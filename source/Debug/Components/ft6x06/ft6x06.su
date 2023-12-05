@@ -1,0 +1,16 @@
+../Components/ft6x06/ft6x06.c:116:6:ft6x06_Init	24	static
+../Components/ft6x06/ft6x06.c:147:6:ft6x06_Reset	16	static
+../Components/ft6x06/ft6x06.c:159:10:ft6x06_ReadID	16	static
+../Components/ft6x06/ft6x06.c:175:6:ft6x06_TS_Start	16	static
+../Components/ft6x06/ft6x06.c:197:9:ft6x06_TS_DetectTouch	24	static
+../Components/ft6x06/ft6x06.c:229:6:ft6x06_TS_GetXY	32	static
+../Components/ft6x06/ft6x06.c:268:6:ft6x06_TS_EnableIT	24	static
+../Components/ft6x06/ft6x06.c:283:6:ft6x06_TS_DisableIT	24	static
+../Components/ft6x06/ft6x06.c:300:9:ft6x06_TS_ITStatus	16	static
+../Components/ft6x06/ft6x06.c:313:6:ft6x06_TS_ClearIT	16	static
+../Components/ft6x06/ft6x06.c:451:17:ft6x06_TS_Configure	24	static
+../Components/ft6x06/ft6x06.c:466:16:ft6x06_GetInstance	24	static
+../Components/ft6x06/ft6x06.c:482:6:TS_IO_Write	40	static
+../Components/ft6x06/ft6x06.c:495:9:TS_IO_Read	40	static
+../Components/ft6x06/ft6x06.c:511:6:TS_IO_WriteMultiple	40	static
+../Components/ft6x06/ft6x06.c:525:10:TS_IO_ReadMultiple	40	static

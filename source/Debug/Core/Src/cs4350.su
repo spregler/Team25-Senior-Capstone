@@ -1,0 +1,6 @@
+../Core/Src/cs4350.c:13:9:CS4350_Init	80	static
+../Core/Src/cs4350.c:97:6:CS4350_Reset	72	static
+../Core/Src/cs4350.c:156:6:CS4350_increase_vol	24	static
+../Core/Src/cs4350.c:179:6:CS4350_decrease_vol	24	static
+../Core/Src/cs4350.c:204:19:CS4350_ReadRegister	48	static
+../Core/Src/cs4350.c:211:19:CS4350_WriteRegister	48	static

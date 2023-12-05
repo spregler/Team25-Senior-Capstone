@@ -1,0 +1,5 @@
+../Core/Src/library.c:15:7:initialize_library	160	static
+../Core/Src/library.c:55:7:create_song	24	static
+../Core/Src/library.c:69:6:add_song	24	static
+../Core/Src/library.c:89:6:free_songs	24	static
+../Core/Src/library.c:100:6:display_songs	24	static
